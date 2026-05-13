@@ -15,13 +15,9 @@ body{
 .camera{
     width: 390px;
     height: 844px;
-
     background: linear-gradient(to right, #07152b, #132747);
-
     border-radius: 40px;
-
     position: relative;
-
     padding: 20px;
 }
 
@@ -32,11 +28,8 @@ body{
 .voltar{
     background: transparent;
     border: none;
-
     color: white;
-
     font-size: 25px;
-
     cursor: pointer;
 }
 
@@ -44,51 +37,36 @@ body{
     font-size: 22px;
 }
 
-/* SEÇÕES */
-
 .secao{
     margin-bottom: 25px;
 }
 
 .secao h2{
     color: #8b8b8b;
-
     font-size: 16px;
-
     margin-bottom: 10px;
 }
 
-/* CARD PADRÃO */
 
 .card{
     background: #041022;
-
     border: 1px solid #102340;
-
     border-radius: 15px;
-
     padding: 10px;
-
     margin-bottom: 15px;
 }
 
 .card h3{
     font-size: 14px;
-
     margin-bottom: 8px;
 }
 
 .card p{
     color: #9e9e9e;
-
     font-size: 15px;
 }
-
-/* SWITCH */
-
 .switch{
     position: relative;
-
     width: 60px;
     height: 34px;
 }
@@ -99,43 +77,17 @@ body{
 
 .slider{
     position: absolute;
-
     inset: 0;
-
     background-color: #2f6fff;
-
     border-radius: 34px;
-
     cursor: pointer;
 }
 
-.slider::before{
-    content: "";
-
-    position: absolute;
-
-    width: 26px;
-    height: 26px;
-
-    left: 30px;
-    top: 4px;
-
-    border-radius: 50%;
-
-    background-color: white;
-}
-
-/* CARD CONFIG */
-
 .card-config{
     background: #041022;
-
     border: 1px solid #102340;
-
     border-radius: 25px;
-
     padding: 20px;
-
     margin-bottom: 15px;
 }
 
@@ -145,12 +97,10 @@ body{
 
 .card-config h3{
     font-size: 14px;
-
     margin-bottom: 5px;
 }
 
 .card-config p{
     color: #9e9e9e;
-
     font-size: 15px;
 }
