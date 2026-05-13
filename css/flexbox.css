@@ -44,7 +44,6 @@ body{
     gap: 15px;
 }
 
-/* CARD */
 
 .card{
     display: flex;
@@ -52,7 +51,7 @@ body{
     align-items: center;
 }
 
-/* CARD CONFIG */
+
 
 .card-config{
     display: flex;

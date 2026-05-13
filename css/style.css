@@ -19,7 +19,7 @@ body{
     background: transparent;
     border: none;
     color: white;
-    font-size: 18px;
+    font-size: 22px;
     cursor: pointer;
 }
 
@@ -45,7 +45,7 @@ body{
 }
 
 .modos{
-    margin-bottom: 40px;
+    margin-top: 165%;
 }
 
 .modos button{
